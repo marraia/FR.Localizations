@@ -27,7 +27,7 @@ namespace FR.Localizations.Test
 
         private void Init()
         {
-            this.subHttpContextAccessor.HttpContext.Request.Headers["Accept-Language"] = "pt-br";
+            this.subHttpContextAccessor.HttpContext.Request.Headers["Accept-Language"] = "pt-BR";
             this.subHostEnvironment.ContentRootPath = "../../../../FR.Localizations.Test";
         }
 
