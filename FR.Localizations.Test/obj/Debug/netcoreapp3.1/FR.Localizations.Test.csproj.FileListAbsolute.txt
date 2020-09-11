@@ -110,3 +110,4 @@ C:\_test\FR.Localizations\FR.Localizations.Test\bin\Debug\netcoreapp3.1\FR.Local
 C:\_test\FR.Localizations\FR.Localizations.Test\obj\Debug\netcoreapp3.1\FR.Localizations.Test.csproj.CoreCompileInputs.cache
 C:\_test\FR.Localizations\FR.Localizations.Test\obj\Debug\netcoreapp3.1\FR.Localizations.Test.dll
 C:\_test\FR.Localizations\FR.Localizations.Test\obj\Debug\netcoreapp3.1\FR.Localizations.Test.pdb
+C:\_test\FR.Localizations\FR.Localizations.Test\bin\Debug\netcoreapp3.1\App_Data\resources.pt-BR.json

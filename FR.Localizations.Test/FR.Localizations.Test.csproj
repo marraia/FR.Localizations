@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -18,6 +18,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FR.Localizations\FR.Localizations.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="App_Data\resources.pt-BR.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
