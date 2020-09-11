@@ -1,0 +1,9 @@
+C:\_test\FR.Localizations\FR.Localizations\bin\Release\netstandard2.0\FR.Localizations.deps.json
+C:\_test\FR.Localizations\FR.Localizations\bin\Release\netstandard2.0\FR.Localizations.dll
+C:\_test\FR.Localizations\FR.Localizations\bin\Release\netstandard2.0\FR.Localizations.pdb
+C:\_test\FR.Localizations\FR.Localizations\obj\Release\netstandard2.0\FR.Localizations.csprojAssemblyReference.cache
+C:\_test\FR.Localizations\FR.Localizations\obj\Release\netstandard2.0\FR.Localizations.AssemblyInfoInputs.cache
+C:\_test\FR.Localizations\FR.Localizations\obj\Release\netstandard2.0\FR.Localizations.AssemblyInfo.cs
+C:\_test\FR.Localizations\FR.Localizations\obj\Release\netstandard2.0\FR.Localizations.csproj.CoreCompileInputs.cache
+C:\_test\FR.Localizations\FR.Localizations\obj\Release\netstandard2.0\FR.Localizations.dll
+C:\_test\FR.Localizations\FR.Localizations\obj\Release\netstandard2.0\FR.Localizations.pdb
