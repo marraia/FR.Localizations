@@ -1,0 +1,10 @@
+[
+  {
+    "Key": "CommitError",
+    "Value": "Erro ao comitar!"
+  },
+  {
+    "Key": "CommitSuccess",
+    "Value": "Sucesso ao comitar {0}!"
+  }
+]
