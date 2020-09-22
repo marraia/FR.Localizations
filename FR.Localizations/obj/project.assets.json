@@ -948,7 +948,7 @@
     "C:\\Users\\foes\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\_test\\FR.Localizations\\FR.Localizations\\FR.Localizations.csproj",
       "projectName": "FR.Localizations",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KkoCCYxL1rq2Y85UW48FXdMsDMKnYyLOjSzdVP3NxyEofb4ns55PrN2Sl3jMIyCPzbEpzBwC66B/xlhfyVhpsg==",
+  "dgSpecHash": "2mrr6hVVaTMGdTS5PQ1rGkNnUgLieY7XP7bcABFraiCeCcb0KWCE2Kr/2eGt0o8ZIRo/Y396sj/2DnIzw445Ng==",
   "success": true,
   "projectFilePath": "C:\\_test\\FR.Localizations\\FR.Localizations.Test\\FR.Localizations.Test.csproj",
   "expectedPackageFiles": [
@@ -119,8 +119,7 @@
     "C:\\Users\\foes\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
     "C:\\Users\\foes\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
     "C:\\Users\\foes\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "C:\\Users\\foes\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512",
-    "C:\\Users\\foes\\.nuget\\packages\\fr.localizations\\1.0.0\\fr.localizations.1.0.0.nupkg.sha512"
+    "C:\\Users\\foes\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
   "logs": []
 }
