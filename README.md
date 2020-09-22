@@ -14,7 +14,7 @@ No arquivo Startup.cs de sua aplicação adicione no método **ConfigureServices
         {
             ..
             ..
-            services.AddLocalizations();
+            services.AddFRLocalizations();
         }
 ```
 ## Criação dos arquivos multi-linguagem 

@@ -4,6 +4,6 @@ C:\_test\FR.Localizations\FR.Localizations\obj\Debug\netstandard2.0\FR.Localizat
 C:\_test\FR.Localizations\FR.Localizations\obj\Debug\netstandard2.0\FR.Localizations.AssemblyInfoInputs.cache
 C:\_test\FR.Localizations\FR.Localizations\obj\Debug\netstandard2.0\FR.Localizations.AssemblyInfo.cs
 C:\_test\FR.Localizations\FR.Localizations\bin\Debug\netstandard2.0\FR.Localizations.pdb
-C:\_test\FR.Localizations\FR.Localizations\obj\Debug\netstandard2.0\FR.Localizations.csproj.CoreCompileInputs.cache
 C:\_test\FR.Localizations\FR.Localizations\obj\Debug\netstandard2.0\FR.Localizations.dll
 C:\_test\FR.Localizations\FR.Localizations\obj\Debug\netstandard2.0\FR.Localizations.pdb
+C:\_test\FR.Localizations\FR.Localizations\obj\Debug\netstandard2.0\FR.Localizations.csproj.CoreCompileInputs.cache

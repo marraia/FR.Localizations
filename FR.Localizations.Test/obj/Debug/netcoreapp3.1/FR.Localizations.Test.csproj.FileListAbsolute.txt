@@ -111,3 +111,8 @@ C:\_test\FR.Localizations\FR.Localizations.Test\obj\Debug\netcoreapp3.1\FR.Local
 C:\_test\FR.Localizations\FR.Localizations.Test\obj\Debug\netcoreapp3.1\FR.Localizations.Test.dll
 C:\_test\FR.Localizations\FR.Localizations.Test\obj\Debug\netcoreapp3.1\FR.Localizations.Test.pdb
 C:\_test\FR.Localizations\FR.Localizations.Test\bin\Debug\netcoreapp3.1\App_Data\resources.pt-BR.json
+C:\_test\FR.Localizations\FR.Localizations.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\_test\FR.Localizations\FR.Localizations.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\_test\FR.Localizations\FR.Localizations.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\_test\FR.Localizations\FR.Localizations.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\_test\FR.Localizations\FR.Localizations.Test\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
