@@ -31,7 +31,11 @@ namespace FR.Localizations
             if (httpContext.Request.Headers["Accept-Language"].Count <= 0)
                 throw new ArgumentException("Accept-Language not loaded");
 
-            var language = httpContext.Request.Headers["Accept-Language"];
+            var languageSplit = httpContext.Request.Headers["Accept-Language"];
+            var language = languageSplit
+                                .ToString()
+                                .Split(',')
+                                .FirstOrDefault();
 
             return File.ReadAllText(Path.Combine(_environment.ContentRootPath, "App_Data", $"resources.{language}.json"));
         }
